@@ -1,0 +1,28 @@
+Tasklist for all of us uwu
+
+Win Condition and Score - TBD
+xStatus: Win condition is beating the last high score
+/Approved
+
+Lose Condition
+xStatus:
+xxStep 1. Lose Screen and then Input name
+
+Menu Easing - Sophia A
+xStatus:
+xxStep 1. Finish the main menu
+/Approved
+
+Parallax Scrolling - Nubs
+xStatus:
+xxStep 1. Get images to parallax in the first place
+/Approved
+
+Particle Effects
+xStatus: Gabriel will implement the particle system from his Mario Clone, but it never got entirely finished even though he got PwD points for it. So someone else can work on it
+/Approved
+
+Replay Recording
+xStatus: Lets not care yet LOL
+Its gonna write to a txt file, a letter and then count up a timer
+/Approved
